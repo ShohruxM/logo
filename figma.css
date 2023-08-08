@@ -1,0 +1,51 @@
+.cantiner{
+    max-width: 1440px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 16px;
+}
+header .cantiner{
+    width: 1440px;
+    height: 768px;
+    background-image: url(./img/fon.png);
+    
+}
+.section{
+    display: flex;
+    justify-content: space-evenly;
+}
+.header-top{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+h1{
+    color: #549FD6;
+}
+ul{
+    list-style: none;
+    display: flex;
+}
+.top-text {
+    color: #549FD6;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.header-ads{
+    display: flex;
+}
+.title{
+    width: 350px;
+}
+.box{
+    display: flex;
+}
+.picture{
+    width: 534px;
+    height: 441px;
+ /* margin: 0 auto; */
+/* display: flex; */
+/* justify-content: center; */
+}
